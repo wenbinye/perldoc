@@ -1,11 +1,10 @@
-;;; perldoc.el --- 
+;;; perldoc.el --- show perldoc with woman
 
-;; Copyright 2007 Ye Wenbin
+;; Copyright (C) 2007-2012 Ye Wenbin
 ;;
-;; Author: wenbinye@gmail.com
-;; Version: $Id: perldoc.el,v 0.0 2007/08/22 19:49:58 ywb Exp $
-;; Keywords: 
-;; X-URL: not distributed yet
+;; Author: Ye Wenbin <wenbinye@gmail.com>
+;; Maintainer: Ye Wenbin <wenbinye@gmail.com>
+;; Keywords: tools
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
